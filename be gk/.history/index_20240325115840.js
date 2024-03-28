@@ -1,1 +1,0 @@
-const export { originalName as alias } from 'module'
